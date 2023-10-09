@@ -13,13 +13,13 @@ body {
 }
 
 .board {
-	width: 900px;
-	height: 900px;
+	width: 700px;
+	height: 700px;
 }
 
 .cell {
-	width: 112.5px;
-	height: 112.5px;
+	width: 87.5px;
+	height: 87.5px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
